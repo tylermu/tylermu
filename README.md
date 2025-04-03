@@ -1,4 +1,4 @@
-Hi, i'm Tyler. I studied computer science at the University of St. Thomas, and am currently building personal projects to enchance my portfolio! You can check out some of my personal projects below, they are also pinned on my profile.
+Hi, i'm Tyler. I studied computer science at the U of St. Thomas (MN), and am currently working as a FT Software Developer! In my freetime I (when motivation strikes lol) work on personal coding projects. You can check out some of them below, and they are also pinned on my profile.
 
 ### University Book Fetch System
 https://github.com/tylermu/UniversityBookFetchSystem
